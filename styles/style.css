@@ -111,6 +111,45 @@ span{
       margin: 0px;
   }
 
+  /* ----------------------
+        favourite player
+   ------------------- */
+   
+   .form-submit{
+       display: flex;
+       
+   }
+
+   .half-part{
+    padding: 25px;
+    border-radius: 10px;
+    width: 40%;
+    margin: 4%;
+    box-shadow:10px 10px 30px gray;
+    background-color: lightskyblue;
+   }
+   
+   button{
+    color:white;
+    background-color: rgb(157, 216, 89);
+    padding: 5px 20px;
+    }
+
+    article>h1{
+        width: 400px;
+        height: 100px;
+        font-size: 100px;
+        margin-top: 25px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+    }
+
+    article>img{
+        width: 735.594px;
+        height: 500px;
+        margin-top: 25px;
+    }
+
 
 
 /* -------------
