@@ -67,3 +67,24 @@ span{
     grid-template-columns: repeat(3, 1fr); 
     margin-left: 30px;
   }
+
+/* -------------
+       footer 
+------------------ */
+
+  footer{
+      width: 484px;
+      height: 213px;
+      text-align: center;
+      margin-right: 481px;
+      margin-left: 475px;
+      margin-bottom: 63px;
+
+  }
+  footer img{
+      width: 484px;
+      height: 110px;
+  }
+  .icon{
+    margin: 7px;
+  }
